@@ -39,6 +39,7 @@ body {
 }
 .child-img img {
     float: right;
+    width: 50%;
 }
 .relative {
     height: calc(100vh - 130px);
